@@ -1,7 +1,7 @@
 # ColumnDetectionCode
 Deep Learning Toolbox is necessary. 
 'lsmread.m'  is necessary to import Zeiss lsm format image files.
-https://github.com/joe-of-all-trades/lsmread
+https://github.com/joe-of-all-trades/lsmread 
 'lsmread.m' should be found in the same folder as 'eval_columnPCP_GUI.m', or you should specify the path. 
 
 'LSMdata_paper' folder contains lsm format image files.
